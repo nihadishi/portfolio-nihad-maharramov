@@ -33,8 +33,8 @@ const About = () => {
                   <br />
                   <br />I am proficient in
                     <b className="yellow"> Javascript, </b>
-                    as well as have knowledge in programming languages such as C, Java, Python,
-                  <b className="yellow"> GraphQL, and Solidity.</b>
+                    as well as have knowledge in programming languages such as <b className="yellow"> C, C++, Java, Python, </b>
+                  
                   <br />
                   <br />
                   I have a passion for working
@@ -47,7 +47,7 @@ const About = () => {
                   </i>
                   &nbsp; like
                   <i>
-                    <b className="yellow"> React.js</b>
+                    <b className="yellow"> React.js, React Native</b>
                   </i>
                   <br />
                   <br />
