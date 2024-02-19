@@ -152,7 +152,7 @@ html {
   
   .logo {
     height: 2em !important;
-    width: 3.5em !important;
+    width: 2.5em !important;
   }
   
   .navbar-nav .nav-link {
@@ -742,6 +742,7 @@ html {
     padding: 0.25rem 1.1rem !important;
     vertical-align: middle !important;
     text-align: center !important;
+   
   }
   
   .fork-btn-inner:hover {
