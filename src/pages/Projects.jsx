@@ -8,6 +8,7 @@ import eventmind from "../assets/projects/eventmind.png";
 import techknow from "../assets/projects/techknow.png";
 import needme from "../assets/projects/needme.png";
 import red from "../assets/projects/red.png";
+import red_website from "../assets/projects/red_website.png";
 import moch from "../assets/projects/moch.png";
 import mineop from "../assets/projects/mineop.png";
 import newware from "../assets/projects/newware.png";
@@ -43,6 +44,17 @@ const Projects = () => {
               description="Our movie streaming and viewing platform represents our passion for cinema and our desire to share it with movie lovers. Our aim is to provide our users with an enjoyable movie experience with quality content in various genres by offering a wide movie archive. We are here to present you the latest and unforgettable movies. Let's travel to fascinating worlds together!"
               ghLink="https://github.com/nihadishi/EventMind-website"
               demoLink="https://eventmind.vercel.app/"
+            />
+          </Col>
+
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={red_website}
+              isBlog={false}
+              title="RED Team Site"
+              description="Our mission is to provide a convenient online platform to provide access to high quality organic products while supporting local farmers. Our vision is to be a premium online organic store that leads to a more sustainable future, is known for our commitment to quality and allows our customers to make informed choices about their health."
+              ghLink="hhttps://github.com/nihadishi/REDWebsite"
+              demoLink="https://red-az.vercel.app/"
             />
           </Col>
 
